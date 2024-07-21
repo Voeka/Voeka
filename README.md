@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Voeka
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning college Godovikova in Moscow.
+- 🌱 I graduated from N.N. College. Godovikova with a diploma with honors.
 
 F.A.Q.
 
