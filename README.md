@@ -1,10 +1,12 @@
 # 🌍 Voeka's GitHub Profile
 
-[🇬🇧 English](#-english-version) | [🇷🇺 Русский](#-версия-на-русском)
+Выберите язык | Choose your language:  
+[🇷🇺 Русский](#russian-version) | [🇬🇧 English](#english-version)
 
 ---
 
-## 🇬🇧 English Version
+<details open>
+<summary>🇬🇧 English Version</summary>
 
 ### 👋 Hello! I’m Voeka
 
@@ -44,9 +46,12 @@ Check out my work here: [🔗 View Portfolio](https://github.com/Voeka)
 - [Telegram](https://t.me/Voeka)  
 - [Email](mailto:voeka2@gmail.com)
 
+</details>
+
 ---
 
-## 🇷🇺 Версия на русском
+<details>
+<summary>🇷🇺 Russian Version</summary>
 
 ### 👋 Привет! Я — Voeka
 
@@ -85,3 +90,5 @@ Check out my work here: [🔗 View Portfolio](https://github.com/Voeka)
 
 - [Telegram](https://t.me/Voeka)  
 - [Email](mailto:voeka2@gmail.com)
+
+</details>
