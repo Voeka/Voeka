@@ -49,7 +49,7 @@ Check out my work here: [🔗 View Portfolio](https://github.com/Voeka)
 ---
 
 <details>
-<summary>🇷🇺 Russian Version</summary>
+<summary name="russian-version">🇷🇺 Russian Version</summary>
 
 ### 👋 Привет! Я — Voeka
 
