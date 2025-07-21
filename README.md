@@ -1,5 +1,3 @@
-# 🌍 Voeka's GitHub Profile
-
 Выберите язык | Choose your language:  
 [🇷🇺 Русский](#russian-version) | [🇬🇧 English](#english-version)
 
