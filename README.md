@@ -4,7 +4,7 @@
 ---
 
 <details open>
-<summary>🇬🇧 English Version</summary>
+<summary name='english-version'>🇬🇧 English Version</summary>
 
 ### 👋 Hello! I’m Voeka
 
