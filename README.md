@@ -1,5 +1,5 @@
-Выберите язык | Choose your language:  
-[🇷🇺 Русский](#russian-version) | [🇬🇧 English](#english-version)
+Выберите язык | Choose your language | 选择语言 | 言語を選択してください  
+[🇷🇺 Русский](#russian-version) | [🇬🇧 English](#english-version) | [🇨🇳 中文](#chinese-version) | [🇯🇵 日本語](#japanese-version)
 
 ---
 
@@ -49,7 +49,7 @@ Check out my work here: [🔗 View Portfolio](https://github.com/Voeka)
 ---
 
 <details>
-<summary name="russian-version">🇷🇺 Russian Version</summary>
+<summary name='russian-version'>🇷🇺 Russian Version</summary>
 
 ### 👋 Привет! Я — Voeka
 
@@ -88,5 +88,95 @@ Check out my work here: [🔗 View Portfolio](https://github.com/Voeka)
 
 - [Telegram](https://t.me/Voeka)  
 - [Email](mailto:voeka2@gmail.com)
+
+</details>
+
+---
+
+<details>
+<summary name='chinese-version'>🇨🇳 中文版本</summary>
+
+### 👋 你好！我是 Voeka
+
+#### 👨‍💻 关于我
+
+我是一名 **全栈开发工程师**，拥有维护、修复和改进各类网站的实际经验。
+
+🔧 **我的主要工作方向** 是支持和修改基于以下平台的网站：  
+- WordPress  
+- ModX  
+- Yupe CRM  
+- NetCat  
+
+🛠 我也从零开始开发网站，使用：  
+- 后端：**Laravel**  
+- 前端：**Vue.js**、**Next.js**
+
+📌 自 **2025年8月** 起，我在 **GEFEST CAPITAL 集团公司** 担任 **全栈开发工程师**。
+
+---
+
+#### 🎓 教育背景
+
+- 🎓 毕业于 **戈多维科夫学院**，获得 **优异成绩**  
+- 🎓 目前在 **莫斯科动力工程学院（MPEI）** 学习 *软件工程*
+
+---
+
+#### 📁 作品集
+
+查看我的项目： [🔗 点击查看](https://github.com/Voeka)
+
+---
+
+#### 📫 联系方式
+
+- [Telegram](https://t.me/Voeka)  
+- [电子邮箱](mailto:voeka2@gmail.com)
+
+</details>
+
+---
+
+<details>
+<summary name='japanese-version'>🇯🇵 日本語バージョン</summary>
+
+### 👋 こんにちは！Voekaです
+
+#### 👨‍💻 自己紹介
+
+私は**フルスタック開発者**です。様々な技術を使ったウェブサイトの保守・修正・改善の経験があります。
+
+🔧 **主な業務内容** は以下のCMSを使ったサイトのサポートとカスタマイズです：  
+- WordPress  
+- ModX  
+- Yupe CRM  
+- NetCat  
+
+🛠 また、以下の技術を使用してゼロからの開発も行っています：  
+- バックエンド：**Laravel**  
+- フロントエンド：**Vue.js**、**Next.js**
+
+📌 **2025年8月** から、**GEFEST CAPITALグループ**で**フルスタック開発者**として勤務しています。
+
+---
+
+#### 🎓 学歴
+
+- 🎓 **N.N.ゴドヴィコフ短期大学**を**優等で卒業**  
+- 🎓 現在、**モスクワ電力工科大学（MPEI）**で*ソフトウェア工学*を専攻中
+
+---
+
+#### 📁 ポートフォリオ
+
+私の作品はこちら：[🔗 ポートフォリオを見る](https://github.com/Voeka)
+
+---
+
+#### 📫 連絡先
+
+- [Telegram](https://t.me/Voeka)  
+- [メール](mailto:voeka2@gmail.com)
 
 </details>
